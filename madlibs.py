@@ -17,10 +17,7 @@ def main():
 
 
 
-	print("""It was %d o'clock when I heard a knock at the door.
-I opened the door and there was a box full of %s with a note saying From Mr. %s.
-Just as I closed the door I heard a scream %s
-I froze in place and all I could do was shake my head."""%(time2,items,name2,scream2,v))
+	print("It was %d o'clock when I heard a knock at the door. I opened the door and there was a box full of %s with a note saying From Mr. %s. Just as I closed the door I heard a scream %s I froze in place and all I could do was %s."%(time2,items,name2,scream2,v))
 
 
 
