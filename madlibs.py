@@ -4,7 +4,7 @@ def main():
 	time2=int(time)
 	items= input("Enter a noun (plural):")
 	name=input("Enter a name: ")
-	name2=name.capitalize()
+	name2=name.title()
 	scream=input("Enter any sentence:")
 	scream2=scream.upper()
 	v=input("Enter a verb:")
