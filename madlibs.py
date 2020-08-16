@@ -1,13 +1,13 @@
 def main():
 	# write your code here
-	time= input("Enter a number from 1 to 12:")
+	time= input("Enter a number from 1 to 12: ")
 	time2=int(time)
-	items= input("Enter a noun (plural):")
+	items= input("Enter a noun (plural): ")
 	name=input("Enter a name: ")
 	name2=name.capitalize()
-	scream=input("Enter any sentence:")
+	scream=input("Enter any sentence: ")
 	scream2=scream.upper()
-	v=input("Enter a verb:")
+	v=input("Enter a verb: ")
 	print()
 	print("The story goes...")
 	print()
